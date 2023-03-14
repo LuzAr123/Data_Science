@@ -1,6 +1,4 @@
-﻿HPI_Rank,Country,Region,Life_Expectancy_yrs,"Wellbeing
-(0-10)",Inequality_of_outcomes,"Ecological_Footprint
-(gha/capita)",Happy_Planet_Index
+﻿HPI_Rank,Country,Region,Life_Expectancy_yrs,Wellbeing,Inequality_of_outcomes,Ecological_Footprint,Happy_Planet_Index
 1,Costa Rica,Americas,79.08,7.3,0.15,2.84,44.71
 2,Mexico,Americas,76.41,7.3,0.19,2.89,40.7
 3,Colombia,Americas,73.67,6.4,0.24,1.87,40.7
