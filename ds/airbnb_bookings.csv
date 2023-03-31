@@ -2374,7 +2374,6 @@
 156.5392637,Entire home/apt,FALSE,FALSE,2,FALSE,0,1,10,90,0,0.966397175,0.269076179,23.72504,37.9785,athens,weekday
 148.1690538,Private room,FALSE,TRUE,2,FALSE,0,1,8,83,1,6.015801498,0.187593773,-0.04369,51.52203,london,weekend
 127.5797373,Private room,FALSE,TRUE,2,FALSE,1,0,9,89,1,2.435832317,0.331307127,-9.13071,38.73318,lisbon,weekday
-realSum,room_type,room_shared,room_private,person_capacity,host_is_superhost,multi,biz,cleanliness_rating,guest_satisfaction_overall,bedrooms,dist,metro_dist,lng,lat,city,day_type
 115.9984065,Entire home/apt,FALSE,FALSE,3,FALSE,0,1,8,60,1,2.445515384,0.458763058,23.729,37.997,athens,weekend
 2632.235001,Entire home/apt,FALSE,FALSE,3,FALSE,0,0,2,20,0,5.77461331,0.365377798,-0.05035,51.52771,london,weekday
 264.5875961,Private room,FALSE,TRUE,3,FALSE,1,0,9,92,1,1.195375811,0.046702446,-0.141,51.515,london,weekday
